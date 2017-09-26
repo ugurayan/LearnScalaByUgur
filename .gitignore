@@ -17,20 +17,12 @@ npm-debug.log*
 .tmp/
 .versions/
 coverage/
-dist/
 node_modules/
 tmp/
 temp/
-hooks/
 out/
-platforms/
-plugins/
-plugins/android.json
-plugins/ios.json
-www/
+
 $RECYCLE.BIN/
 
 .DS_Store
 Thumbs.db
-UserInterfaceState.xcuserstate
-smartupcrm-mobile.iml
